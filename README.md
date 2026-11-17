@@ -1,14 +1,14 @@
-# SurakshitPath (सुरक्षितPath)
+# SurakshPath(सुरक्षापथ)
 ### Transparent Safe-Route Planning for Night Travel • Central Mangalore Prototype
 
 > Built for the 24-hour hackathon. Works 100% locally with zero paid services, zero API keys, and bundled offline demo fallback corridors.
 
 ---
 
-## 🌟 The Problem SurakshitPath Solves
+## 🌟 The Problem SurakshPath Solves
 Standard navigation systems optimize solely for distance or travel time. For someone traveling alone at night, safety depends on **street lighting, active 24/7 public spaces, proximity to transit, verified help points (police & hospital ERs), recent verified incidents, and active road closures**.
 
-**SurakshitPath** introduces a transparent, risk-aware routing prototype that compares routes, explains the factors behind every safety score in plain words, updates instantly to dynamic real-time condition changes, and gives the user full control over the trade-off between safety and travel time.
+**SurakshPath** introduces a transparent, risk-aware routing prototype that compares routes, explains the factors behind every safety score in plain words, updates instantly to dynamic real-time condition changes, and gives the user full control over the trade-off between safety and travel time.
 
 ---
 
