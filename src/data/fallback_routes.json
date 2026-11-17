@@ -1,0 +1,82 @@
+{
+  "start": { "name": "Hampankatta (Clock Tower)", "coordinates": [12.8698, 74.8430] },
+  "end": { "name": "Kankanady Bypass", "coordinates": [12.8635, 74.8630] },
+  "routes": [
+    {
+      "id": "route-a",
+      "name": "Via Jyothi Circle & Balmatta Main Rd",
+      "label": "Balmatta Arterial Corridor",
+      "summary": "Lit commercial corridor with 24h pharmacies & active beat patrols",
+      "distance": 2820,
+      "duration": 420,
+      "color": "#10b981",
+      "coordinates": [
+        [12.8698, 74.8430],
+        [12.8702, 74.8441],
+        [12.8708, 74.8455],
+        [12.8715, 74.8468],
+        [12.8722, 74.8480],
+        [12.8728, 74.8492],
+        [12.8725, 74.8505],
+        [12.8720, 74.8518],
+        [12.8715, 74.8532],
+        [12.8712, 74.8550],
+        [12.8705, 74.8565],
+        [12.8692, 74.8578],
+        [12.8678, 74.8590],
+        [12.8665, 74.8605],
+        [12.8652, 74.8618],
+        [12.8640, 74.8625],
+        [12.8635, 74.8630]
+      ]
+    },
+    {
+      "id": "route-b",
+      "name": "Via Falnir Road & Highland",
+      "label": "Falnir Direct Avenue",
+      "summary": "Shortest direct path through Falnir residential and medical pocket",
+      "distance": 2410,
+      "duration": 340,
+      "color": "#38bdf8",
+      "coordinates": [
+        [12.8698, 74.8430],
+        [12.8690, 74.8442],
+        [12.8682, 74.8458],
+        [12.8673, 74.8472],
+        [12.8662, 74.8488],
+        [12.8653, 74.8505],
+        [12.8646, 74.8522],
+        [12.8638, 74.8542],
+        [12.8632, 74.8560],
+        [12.8627, 74.8580],
+        [12.8624, 74.8600],
+        [12.8630, 74.8615],
+        [12.8635, 74.8630]
+      ]
+    },
+    {
+      "id": "route-c",
+      "name": "Via Attavar & Valencia Link",
+      "label": "Valencia Outer Byway",
+      "summary": "Quieter secondary road via southern bypass, sparse late-night activity",
+      "distance": 3150,
+      "duration": 485,
+      "color": "#f59e0b",
+      "coordinates": [
+        [12.8698, 74.8430],
+        [12.8675, 74.8422],
+        [12.8652, 74.8415],
+        [12.8634, 74.8428],
+        [12.8622, 74.8445],
+        [12.8615, 74.8470],
+        [12.8610, 74.8495],
+        [12.8606, 74.8522],
+        [12.8608, 74.8548],
+        [12.8614, 74.8575],
+        [12.8622, 74.8600],
+        [12.8630, 74.8618],
+        [12.8635, 74.8630]
+      ]
+    }
+  ]
+}

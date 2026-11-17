@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "city": "Mangalore",
+    "district": "Dakshina Kannada",
+    "area": "Hampankatta - Jyothi - Balmatta - Falnir - Kankanady",
+    "type": "Demo Simulated Safety Dataset",
+    "lastUpdated": "2026-11-15T18:00:00Z"
+  },
+  "streetLights": [
+    { "id": "sl-1", "name": "Hampankatta Circle Main Pole", "lat": 12.8698, "lng": 74.8435, "intensity": "high", "active": true },
+    { "id": "sl-2", "name": "K.S. Rao Road Smart LED 1", "lat": 12.8705, "lng": 74.8448, "intensity": "high", "active": true },
+    { "id": "sl-3", "name": "K.S. Rao Road Smart LED 2", "lat": 12.8715, "lng": 74.8465, "intensity": "high", "active": true },
+    { "id": "sl-4", "name": "Jyothi Circle High Mast", "lat": 12.8728, "lng": 74.8492, "intensity": "high", "active": true },
+    { "id": "sl-5", "name": "Balmatta Road LED A", "lat": 12.8724, "lng": 74.8510, "intensity": "high", "active": true },
+    { "id": "sl-6", "name": "Balmatta Road LED B", "lat": 12.8716, "lng": 74.8532, "intensity": "high", "active": true },
+    { "id": "sl-7", "name": "Balmatta Circle Mast", "lat": 12.8712, "lng": 74.8552, "intensity": "high", "active": true },
+    { "id": "sl-8", "name": "Bendorewell Junction LED 1", "lat": 12.8678, "lng": 74.8590, "intensity": "high", "active": true },
+    { "id": "sl-9", "name": "Bendorewell - Kankanady Strip 1", "lat": 12.8658, "lng": 74.8610, "intensity": "high", "active": true },
+    { "id": "sl-10", "name": "Kankanady Bypass High Mast", "lat": 12.8635, "lng": 74.8630, "intensity": "high", "active": true },
+    { "id": "sl-11", "name": "Falnir Road Post 1", "lat": 12.8682, "lng": 74.8455, "intensity": "medium", "active": true },
+    { "id": "sl-12", "name": "Falnir Crescent Post 2", "lat": 12.8665, "lng": 74.8480, "intensity": "medium", "active": true },
+    { "id": "sl-13", "name": "Falnir Ave Light", "lat": 12.8648, "lng": 74.8515, "intensity": "medium", "active": true },
+    { "id": "sl-14", "name": "Highland Hospital Lane Light", "lat": 12.8635, "lng": 74.8550, "intensity": "medium", "active": true },
+    { "id": "sl-15", "name": "Father Muller Road Entrance Light", "lat": 12.8625, "lng": 74.8585, "intensity": "high", "active": true },
+    { "id": "sl-16", "name": "Old Bunder South Street Lamp 1", "lat": 12.8650, "lng": 74.8410, "intensity": "low", "active": true },
+    { "id": "sl-17", "name": "Old Bunder South Street Lamp 2", "lat": 12.8632, "lng": 74.8425, "intensity": "low", "active": true },
+    { "id": "sl-18", "name": "Attavar Railway Crossing Light", "lat": 12.8618, "lng": 74.8460, "intensity": "low", "active": true },
+    { "id": "sl-19", "name": "Valencia Outer Road Pole 1", "lat": 12.8605, "lng": 74.8520, "intensity": "low", "active": true },
+    { "id": "sl-20", "name": "Valencia - Kankanady Link Light", "lat": 12.8615, "lng": 74.8565, "intensity": "medium", "active": true },
+    { "id": "sl-21", "name": "K.S. Rao Cross Post", "lat": 12.8718, "lng": 74.8475, "intensity": "high", "active": true },
+    { "id": "sl-22", "name": "Balmatta Church Road Pole", "lat": 12.8700, "lng": 74.8545, "intensity": "medium", "active": true },
+    { "id": "sl-23", "name": "Kankanady Market Circle Mast", "lat": 12.8640, "lng": 74.8615, "intensity": "high", "active": true }
+  ],
+  "activeSpaces": [
+    {
+      "id": "act-1",
+      "name": "Apollo Pharmacy (24x7)",
+      "type": "pharmacy",
+      "lat": 12.8725,
+      "lng": 74.8495,
+      "openHour": 0,
+      "closeHour": 24,
+      "desc": "Round-the-clock lighted pharmacy with CCTV & security guard"
+    },
+    {
+      "id": "act-2",
+      "name": "Indian Oil 24x7 Petrol Pump & Swagat Mart",
+      "type": "petrol_pump",
+      "lat": 12.8710,
+      "lng": 74.8538,
+      "openHour": 0,
+      "closeHour": 24,
+      "desc": "Active fuel station, bright canopy lighting & staff present"
+    },
+    {
+      "id": "act-3",
+      "name": "MedPlus Pharmacy Balmatta",
+      "type": "pharmacy",
+      "lat": 12.8717,
+      "lng": 74.8528,
+      "openHour": 7,
+      "closeHour": 23.5,
+      "desc": "Open until 11:30 PM with bright storefront"
+    },
+    {
+      "id": "act-4",
+      "name": "Ideals Ice Cream Cafe Jyothi",
+      "type": "shop",
+      "lat": 12.8722,
+      "lng": 74.8480,
+      "openHour": 9,
+      "closeHour": 23,
+      "desc": "High footfall family restaurant active till 11:00 PM"
+    },
+    {
+      "id": "act-5",
+      "name": "HP Petrol Pump Falnir",
+      "type": "petrol_pump",
+      "lat": 12.8655,
+      "lng": 74.8498,
+      "openHour": 6,
+      "closeHour": 23,
+      "desc": "Fuel station lit till 11:00 PM"
+    },
+    {
+      "id": "act-6",
+      "name": "Sanjeevani All-Night Chemists Kankanady",
+      "type": "pharmacy",
+      "lat": 12.8638,
+      "lng": 74.8622,
+      "openHour": 0,
+      "closeHour": 24,
+      "desc": "24-hour medical shop opposite Father Muller"
+    },
+    {
+      "id": "act-7",
+      "name": "Hampankatta Night Chai & Bakery Stand",
+      "type": "shop",
+      "lat": 12.8695,
+      "lng": 74.8432,
+      "openHour": 18,
+      "closeHour": 4,
+      "desc": "Transit worker refreshments & constant driver presence"
+    },
+    {
+      "id": "act-8",
+      "name": "Bendorewell 24/7 ATM & Quick Stop",
+      "type": "shop",
+      "lat": 12.8672,
+      "lng": 74.8595,
+      "openHour": 0,
+      "closeHour": 24,
+      "desc": "Well-lit banking kiosk with guarded security"
+    }
+  ],
+  "helpPoints": [
+    {
+      "id": "hp-1",
+      "name": "Mangalore Central Police Traffic & Beat Kiosk",
+      "type": "police",
+      "lat": 12.8702,
+      "lng": 74.8438,
+      "contact": "112 / 0824-2220800",
+      "desc": "Permanent police presence at Hampankatta intersection"
+    },
+    {
+      "id": "hp-2",
+      "name": "Kadri Police Station Beat Outpost Jyothi",
+      "type": "police",
+      "lat": 12.8732,
+      "lng": 74.8490,
+      "contact": "112",
+      "desc": "Police patrol point with emergency flasher beacon"
+    },
+    {
+      "id": "hp-3",
+      "name": "Father Muller Medical College Hospital (24/7 ER)",
+      "type": "hospital",
+      "lat": 12.8620,
+      "lng": 74.8595,
+      "contact": "0824-2238000",
+      "desc": "Full tertiary casualty emergency entrance & active security triage"
+    },
+    {
+      "id": "hp-4",
+      "name": "Highland Hospital Casualty Wing",
+      "type": "hospital",
+      "lat": 12.8638,
+      "lng": 74.8542,
+      "contact": "0824-2433433",
+      "desc": "24/7 Emergency casualty department with ambulance dock"
+    },
+    {
+      "id": "hp-5",
+      "name": "Kankanady Police Station",
+      "type": "police",
+      "lat": 12.8648,
+      "lng": 74.8638,
+      "contact": "0824-2220803",
+      "desc": "Sub-divisional police station with patrol vehicles"
+    }
+  ],
+  "publicTransport": [
+    { "id": "pt-1", "name": "Hampankatta City Bus Bay", "lat": 12.8693, "lng": 74.8430, "type": "bus_bay" },
+    { "id": "pt-2", "name": "K.S. Rao Road Bus Stop", "lat": 12.8710, "lng": 74.8458, "type": "bus_stop" },
+    { "id": "pt-3", "name": "Jyothi Circle Major Transit Hub", "lat": 12.8726, "lng": 74.8488, "type": "bus_bay" },
+    { "id": "pt-4", "name": "Balmatta Post Office Bus Stop", "lat": 12.8718, "lng": 74.8525, "type": "bus_stop" },
+    { "id": "pt-5", "name": "Bendorewell Junction Stop", "lat": 12.8674, "lng": 74.8592, "type": "bus_stop" },
+    { "id": "pt-6", "name": "Falnir Clinic Bus Shelter", "lat": 12.8652, "lng": 74.8505, "type": "bus_stop" },
+    { "id": "pt-7", "name": "Kankanady Terminus & Auto Stand", "lat": 12.8636, "lng": 74.8626, "type": "bus_bay" }
+  ],
+  "incidents": [
+    {
+      "id": "inc-1",
+      "title": "Dim lighting & verbal altercation near deserted railway underpass",
+      "lat": 12.8622,
+      "lng": 74.8445,
+      "date": "2026-11-05T22:30:00Z",
+      "severity": "medium",
+      "verified": true,
+      "description": "Reported loitering and broken overhead street light near railway compound wall."
+    },
+    {
+      "id": "inc-2",
+      "title": "Unlit stretch & snatching attempt",
+      "lat": 12.8610,
+      "lng": 74.8530,
+      "date": "2026-10-10T23:15:00Z",
+      "severity": "high",
+      "verified": true,
+      "description": "Historical report (over a month ago); decayed in safety weight."
+    },
+    {
+      "id": "inc-3",
+      "title": "Aggressive stray dogs near dark alley",
+      "lat": 12.8660,
+      "lng": 74.8470,
+      "date": "2026-11-12T21:40:00Z",
+      "severity": "low",
+      "verified": false,
+      "description": "Unverified citizen note regarding stray pack at night."
+    }
+  ],
+  "roadClosures": []
+}
