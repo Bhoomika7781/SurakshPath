@@ -13,7 +13,7 @@ Standard navigation systems optimize solely for distance or travel time. For som
 ---
 
 ## ⚖️ Fairness & Ethics Rules (Non-Stigmatizing Design)
-Traditional safety heatmaps often paint entire neighborhoods red, creating systemic prejudice and stigmatizing communities. SurakshitPath adheres strictly to 4 fairness tenets:
+Traditional safety heatmaps often paint entire neighborhoods red, creating systemic prejudice and stigmatizing communities. SurakshPath adheres strictly to 4 fairness tenets:
 1. **Granular Segment Scoring (~50 m):** Evaluates physical variables (lighting, open shops, bus stops) on specific ~50 m segments right now—**never entire neighborhoods**.
 2. **Half-Life Incident Decay (~30 Days):** Past incident reports fade exponentially over a 30-day half-life. Unverified citizen reports carry only a 25% weight discount. A single incident can never permanently brand a street.
 3. **Sparse Data Shrinkage & Confidence Tags:** An absence of sensor data is never assumed to be danger. Sparse areas are flagged as **Low Confidence** and scores shrink toward a neutral baseline (50) with an explicit note: *"Limited data here; score adjusted toward neutral 50"*.
